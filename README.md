@@ -9,5 +9,14 @@ actualmenete me dedico a realizar proyectos que me permitan avanzar en mi dessar
 ## que tecnologías uso?
 tengo enxperiencia en variadas tecnologías tanto para el front como para el back, estas son:
 
+* JavaScript
+* React
+* Redux
+* Node
+* Express
+* Sequelize
+* PostgreSQL
+* GIT
 
+No dudes en contactarme
 
