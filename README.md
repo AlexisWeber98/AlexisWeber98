@@ -1,4 +1,4 @@
-### Hi there 👋 mi nombre es Alexis Weber
+# Hi there 👋 mi nombre es Alexis Weber
 
 ## Quien Soy?
 soy programador full stack, con mucha curiosidad y ganas de seguir aprendiendo nuevas tecnologías, desde muy chico me interes{o el mundo it y hoy tengo el placer de entrr en esete maravilloso y desafiante mundo 
