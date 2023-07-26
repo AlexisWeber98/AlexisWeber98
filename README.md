@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 mi nombre es Alexis Weber
 
-<!--
-**AlexisWeber98/AlexisWeber98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Quien Soy?
+soy programador full stack, con mucha curiosidad y ganas de seguir aprendiendo nuevas tecnologías, desde muy chico me interes{o el mundo it y hoy tengo el placer de entrr en esete maravilloso y desafiante mundo 
 
-Here are some ideas to get you started:
+## que hago?
+actualmenete me dedico a realizar proyectos que me permitan avanzar en mi dessarrollo de programador 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## que tecnologías uso?
+tengo enxperiencia en variadas tecnologías tanto para el front como para el back, estas son:
+
+
+
