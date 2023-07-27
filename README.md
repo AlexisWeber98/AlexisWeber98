@@ -9,16 +9,18 @@ actualmenete me dedico a realizar proyectos que me permitan avanzar en mi dessar
 ## que tecnologías uso?
 tengo enxperiencia en variadas tecnologías tanto para el front como para el back, estas son:
 
-* JavaScript
-* React
-* Redux
-* Node
-* Express
-* Sequelize
-* PostgreSQL
-* GIT
+- __FrontEnd__
+  - JavaScript
+  - React
+  - Redux
+- __Back-End__
+  - Node
+  - Express
+  - Sequelize
+  - PostgreSQL
+- __GIT__
 
 ### No dudes en contactarme
 conectemos en [LinkedIn](https://www.linkedin.com/in/alexis-david-weber/)
-o enviame un [Email!](Alexis.Weber@mailfence.com)
+o enviame un Email! a Alexis.Weber@mailfence.com
 
