@@ -10,10 +10,13 @@ actualmenete me dedico a realizar proyectos que me permitan avanzar en mi dessar
 tengo enxperiencia en variadas tecnologías tanto para el front como para el back, estas son:
 
 - __FrontEnd__
+  - TypeScript
   - JavaScript
   - React
   - Redux
 - __Back-End__
+  - TypeScript
+  - JavaScript
   - Node
   - Express
   - Sequelize
