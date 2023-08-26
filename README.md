@@ -21,6 +21,6 @@ tengo enxperiencia en variadas tecnologías tanto para el front como para el bac
 - __GIT__
 
 ### No dudes en contactarme
-conectemos en [LinkedIn](https://www.linkedin.com/in/alexis-david-weber/)
+conectemos en [LinkedIn](https://www.linkedin.com/in/AleWeber/)
 o enviame un Email! a Alexis.Weber@mailfence.com
 
