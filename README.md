@@ -12,6 +12,7 @@ tengo enxperiencia en variadas tecnologías tanto para el front como para el bac
 - __FrontEnd__
   - TypeScript
   - JavaScript
+  - css
   - React
   - Redux
 - __Back-End__
