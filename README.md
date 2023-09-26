@@ -9,6 +9,10 @@ actualmenete me dedico a realizar proyectos que me permitan avanzar en mi dessar
 ## que tecnologías uso?
 tengo enxperiencia en variadas tecnologías tanto para el front como para el back, estas son:
 
+-__Movile__
+  - React Native
+  - Expo
+
 - __FrontEnd__
   - TypeScript
   - JavaScript
