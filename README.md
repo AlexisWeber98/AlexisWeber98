@@ -14,8 +14,8 @@ tengo enxperiencia en variadas tecnologías tanto para el front como para el bac
   - Expo
 
 - __Lenguajes__
- - Javasript
- - Typescript
+  - Javasript
+  -Typescript
 
 - __FrontEnd__
   - Next.js
