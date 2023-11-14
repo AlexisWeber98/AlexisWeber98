@@ -13,9 +13,12 @@ tengo enxperiencia en variadas tecnologías tanto para el front como para el bac
   - React Native
   - Expo
 
+- __Lenguajes__
+ - Javasript
+ - Typescript
+
 - __FrontEnd__
-  - TypeScript
-  - JavaScript
+  - Next.js
   - css
   - React
   - Redux
