@@ -1,37 +1,41 @@
-# Hi there 👋 mi nombre es Alexis Weber
+# Hola, soy Alexis Weber 👋
 
-## Quien Soy?
-soy programador full stack, con mucha curiosidad y ganas de seguir aprendiendo nuevas tecnologías, desde muy chico me intereso el mundo it y hoy tengo el placer de entrar en este maravilloso y desafiante mundo 
+## ¿Quién soy?
+Soy programador full stack, con mucha curiosidad y ganas de seguir aprendiendo nuevas tecnologías. Desde muy chico me interesó el mundo IT y hoy tengo el placer de entrar en este maravilloso y desafiante mundo.
 
-## que hago?
-actualmenete me dedico a realizar proyectos que me permitan avanzar en mi dessarrollo de programador, revisalos en mi perfil! 
+## ¿Qué hago?
+Actualmente me dedico a realizar proyectos que me permitan avanzar en mi desarrollo de programador. Revisa algunos de ellos en mi perfil o en mi portfolio.
 
-## que tecnologías uso?
-tengo enxperiencia en variadas tecnologías tanto para el front como para el back, estas son:
+## ¿Qué tecnologías uso?
+Tengo experiencia en variadas tecnologías tanto para el front-end como para el back-end, estas son:
 
 - __Mobile__
-  - React Native
-  - Expo
+  - ! [React Native] (https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ! [Expo] (https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 - __Lenguajes__
-  - Javasript
-  - Typescript
+  - ! [JavaScript] (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  - ! [TypeScript] (https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- __FrontEnd__
-  - Next.js
-  - css
-  - React
-  - Redux
+- __Front-End__
+  - ! [Next.js] (https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  - ! [CSS] (https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  - ! [React] (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  - ! [Redux] (https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 - __Back-End__
-  - TypeScript
-  - JavaScript
-  - Node
-  - Express
-  - Sequelize
-  - PostgreSQL
+  - ! [Node.js] (https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
+  - ! [Express] (https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+  - ! [Sequelize] (https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+  - ! [PostgreSQL] (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 - __GIT__
+  - ! [Git] (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### No dudes en contactarme
-conectemos en [LinkedIn](https://www.linkedin.com/in/AleWeber/)
-o enviame un Email! a Alexis.Weber@mailfence.com
+Conectemos en ! [LinkedIn] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) o envíame un ! [Email] (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+! [Estadísticas de GitHub] (https://quine.sh/api/quine?username=AleWeber&show_icons=true&theme=radical)
+
+! [Lenguajes más usados] (https://quine.sh/api/top-langs/?username=AleWeber&theme=radical)
+
+
 
