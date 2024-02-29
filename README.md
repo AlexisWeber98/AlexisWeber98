@@ -18,7 +18,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 <div align="center">
-### Lenguajes
+<h2>Lenguajes</h2>
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 <div align="center">
-### Frontend
+<h2>Frontend</h2>
   
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 <div align="center">
-### Backend
+<h2>Backend</h2>
   
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 <div align="center">
-### Control de Versiones
+<h2>Control de Versiones</h2>
   
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
