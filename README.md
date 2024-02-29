@@ -10,7 +10,7 @@ Actualmente, me dedico a desarrollar proyectos que no solo amplíen mis habilida
 Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡representadas con iconos para mayor claridad!
 
 <div align="center">
-### Mobile
+<h2> Mobile</h2>
   
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
