@@ -10,7 +10,7 @@ Actualmente, me dedico a desarrollar proyectos que no solo amplíen mis habilida
 Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡representadas con iconos para mayor claridad!
 
 ### Mobile
-<div align="left">
+<div align="center">
   
   ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
@@ -18,7 +18,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 ### Lenguajes
-<div align="left">
+<div align="center">
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 ### Frontend
-<div align="left">
+<div align="center">
   
   ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 ### Backend
-<div align="left">
+<div align="center">
   
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,7 +49,7 @@ Aquí hay una lista de algunas de las tecnologías con las que trabajo, ¡repres
 </div>
 
 ### Control de Versiones
-<div align="left">
+<div align="center">
   
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   
