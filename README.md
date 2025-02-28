@@ -1,8 +1,7 @@
 <h1 align="center"> ¡Hola! 👋 Soy Alexis Weber<h1>
 
-<div align="center">
   ## ¿Quién soy?
-</div>
+
 ¡Saludos! Soy un apasionado programador Full Stack con un deseo insaciable de aprender y dominar nuevas tecnologías. Desde temprana edad, el mundo de la tecnología de la información capturó mi interés, y hoy en día, tengo el privilegio de sumergirme en este emocionante y desafiante campo.
 
 ## ¿Qué hago?
