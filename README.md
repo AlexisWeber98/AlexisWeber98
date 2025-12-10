@@ -75,11 +75,11 @@ Aquí algunas de las tecnologías con las que trabajo:
 </div>
 
 ---
-## Lenguajes
-
-## Lenguajes más usados
+## Lenguajes más utilizados en mis proyectos
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisWeber98&layout=compact&hide=Jupyter%20Notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 
 
