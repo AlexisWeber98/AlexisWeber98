@@ -77,7 +77,7 @@ Aquí algunas de las tecnologías con las que trabajo:
 ---
 ## Lenguajes
 
-[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AlexisWeber98&layout=compact&langs_count=8)](https://github.com/AlexisWeber98)
+[![AlexisWeber98's GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexisWeber98&theme=github_dark)](https://github.com/AlexisWeber98)
 
 
 
