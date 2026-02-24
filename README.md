@@ -30,6 +30,8 @@ Aquí algunas de las tecnologías con las que trabajo:
 <h2>Lenguajes</h2>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  #TODO: agregar Java correctamente
+  <img src="https://img.shields.io/badge/Java?style=for-the-badge&logo=Java&logoColor=white"
 </div>
 
 <div align="center">
