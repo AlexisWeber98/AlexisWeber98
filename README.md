@@ -31,7 +31,7 @@ Aquí algunas de las tecnologías con las que trabajo:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Java"/>
+ <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
 </div>
 
 <div align="center">
