@@ -11,7 +11,7 @@
 
 ## Perfil profesional
 
-Desarrollador Backend y Team Lead con experiencia liderando equipos técnicos y entregando productos de alto impacto. Especializado en Node.js, Parse Server y arquitectura sobre bases de datos relacionales y NoSQL, con foco en rendimiento, mantenibilidad y entrega continua.
+Desarrollador Backend y DevOps/SRE con experiencia liderando equipos técnicos y entregando productos de alto impacto. Especializado en Node.js, Parse Server y arquitectura sobre bases de datos relacionales y NoSQL, con foco en rendimiento, mantenibilidad y entrega continua.
 
 ## Especialidades
 
