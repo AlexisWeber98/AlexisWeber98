@@ -23,7 +23,7 @@ Desarrollador Backend y DevOps/SRE con experiencia liderando equipos técnicos y
 ## Stack tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,nodejs,express,react,nextjs,redux,tailwind,postgres,mongodb,docker,aws,githubactions,linux,git&perline=8" alt="Stack tecnológico">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,nodejs,express,react,nextjs,redux,tailwind,postgres,mongodb,docker,aws,githubactions,linux,git.spring-boot&perline=9" alt="Stack tecnológico">
 </p>
 
 ## Sistema de gráficos en tiempo real
