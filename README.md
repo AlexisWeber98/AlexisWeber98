@@ -52,4 +52,4 @@ Estos gráficos consumen datos de GitHub y se actualizan automáticamente para r
 
 - Web: [alexisweber.com](https://alexisweber.com) (portfolio y blog)
 - LinkedIn: [linkedin.com/in/AleWeber](https://www.linkedin.com/in/AleWeber/)
-- Email: [Alexis.Weber@mailfence.com](mailto:contacto@alexisweber.com)
+- Email: [contacto@alexisweber.com](mailto:contacto@alexisweber.com)
