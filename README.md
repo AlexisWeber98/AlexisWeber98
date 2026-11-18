@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://alexisweber.com"><img src="https://img.shields.io/badge/Web-alexisweber.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web"></a>
   <a href="https://www.linkedin.com/in/AleWeber/"><img src="https://img.shields.io/badge/LinkedIn-AleWeber-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:Alexis.Weber@mailfence.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:contacto@alexisweber.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -52,4 +52,4 @@ Estos gráficos consumen datos de GitHub y se actualizan automáticamente para r
 
 - Web: [alexisweber.com](https://alexisweber.com) (portfolio y blog)
 - LinkedIn: [linkedin.com/in/AleWeber](https://www.linkedin.com/in/AleWeber/)
-- Email: [Alexis.Weber@mailfence.com](mailto:Alexis.Weber@mailfence.com)
+- Email: [Alexis.Weber@mailfence.com](mailto:contacto@alexisweber.com)
